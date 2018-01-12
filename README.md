@@ -106,32 +106,32 @@ ___
 - [x] task3
 ##emoji 表情符号
 
-#基本强调样式
+# 基本强调样式
  - **加粗**
  - *倾斜*
  - ~~删除~~  
-#混合强调样式
+# 混合强调样式
  - ***加粗倾斜***
  - **~~加粗删除~~**
  - *~~倾斜删除~~*  
  - ***~~加粗倾斜删除~~*** 
   
-#图片链接
-##基本文字
+# 图片链接
+## 基本文字
 [百度](http://www.baidu.com)
 
-##基本图片
+## 基本图片
 ![百度](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png "百度网站")
 
-##图片链接
+## 图片链接
 [![](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png "百度网站")](http://www.baidu.com)
 
-###引用式链接
+### 引用式链接
 [![][baidu_logo]][baidu]
 
 
-##多级有序列表
-###如何打断（空行间多个文字）、续号（4空格缩进）多级列表  
+## 多级有序列表
+### 如何打断（空行间多个文字）、续号（4空格缩进）多级列表  
 1. item1  
   1.1. miss  
   1.2. miss  
