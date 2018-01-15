@@ -1,6 +1,6 @@
 #Welcome to use MarkDown
 # Git配置
-##ignore
+## ignore
   - 忽略HB创建的文件；
   - git add -f(强制添加.gitignore忽略文件)
   - git reset HEAD
@@ -9,7 +9,7 @@
 ## Github Mode
  - cerat repository 添加.gitignore的类型文件；
  
-##换行  
+## 换行  
 - 提交时转换为LF，检出时转换为CRLF，默认设置不用修改，git是Linux配置；
   - git config --global core.autocrlf true 
   
