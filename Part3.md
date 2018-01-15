@@ -41,7 +41,25 @@
  - git add -p (一个文件多个提交:分块提交)
  - git reset HEAD 
  
+ ## 查看深入信息
+ - git status -sb 
+  
+![diff](23.png)
+
+ ## 查看某个提交信息
+ - git show HEAD^前一个提交； ~前两个；
+ 
+ ## 查看提交历史
+ - git log Part3.md
+ - git show  35e67a0
+ - git log --grep add(筛选信息)
+ - git hi -10
  - git -am "massage"(已经有提交记录)
+ 
+## 版本比较
+ - git diff
+ 
+ 
 ## 规范化massage
   - type (scope): subject
     - type:
