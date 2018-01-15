@@ -43,7 +43,7 @@
  
  - git -am "massage"(已经有提交记录)
 ## 规范化massage
-  - <type> (<scope>): <subject>
+  - type (scope): subject
     - type:
    		- feat:新功能
    		- fix: 修改bug
@@ -52,10 +52,10 @@
    		- refactor: 重构
    		- test:
    		- chore:
- // 
- - <body>
- //
- - <footer>
+
+ - body
+
+ - footer
 
 
 
