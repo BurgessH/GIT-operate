@@ -1,2 +1,6 @@
 hello world!
+<<<<<<< HEAD
+Forking repository
+=======
 forking
+>>>>>>> e3892c571c635604c8fb51bef529108c53241b82
