@@ -42,8 +42,8 @@ _斜体_，__粗体__, ___粗体加斜体___;
   - 内部链接：链接本文档的其他部分；[标题和次级标题](Mark.md#标题和次级标题);  
   
 ## 引用式链接   
-  - 外部链接：[百度]；
-  - 内部链接：链接仓库的其他文件：[list]；
+  - 外部链接：[baidu]；
+  - 内部链接：链接仓库的其他文件：[第一季]；
   - 内部链接：链接本文档的其他部分；[代码块demo];
 
 # 图片Demo 
@@ -148,6 +148,6 @@ ___
 
 
 <!--以下是本文中的链接 -->
-
 [baidu]: http://www.baidu.com
+[第一季]: 第一季.md
 [baidu_logo]: https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png 
