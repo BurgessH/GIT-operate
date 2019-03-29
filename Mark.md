@@ -16,14 +16,11 @@
 
 ### 列表（无序）  
 * Name: BurgessH  
-* QQ: 76895412635  
-等价于：  
+* QQ: 76895412635    
 - Name: BurgessH  
-- QQ: 5287453168   
-  - Name1:  
+- QQ: 5287453168     
   - QQ1:  
     - Name2:
-    - QQ2:
     
 ### 列表（有序）  
 1. Name:BurgessH  
