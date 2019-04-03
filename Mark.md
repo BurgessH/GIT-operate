@@ -21,8 +21,7 @@
 * QQ: 76895412635    
 - Name: BurgessH  
 - QQ: 5287453168     
-  - QQ1:  
-    - Name2:    
+  - QQ1:      
 ### 列表（有序）  
 1. Name:BurgessH  
   1.1 name:  
