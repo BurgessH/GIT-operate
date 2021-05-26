@@ -12,7 +12,7 @@ workspace **-add-** index **-commit-** repository **-checkout-**
   - git bash命令上     
     - git init (初始化本地仓库)     
     - git add README.md(指定文件到暂存区)   
-    - git commit -m "message" 
+    - git commit -m "Message" 
     - git commit -a -m （已有历史版本的提交信息,直接从暂存区提交到仓库）   
     - git status (查看文件信息)  
     - git log/--oneline（查看提交信息）  
