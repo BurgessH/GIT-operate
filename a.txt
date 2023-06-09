@@ -1,6 +1,14 @@
 hello world!
 
-Forking repository
+设置Git参数
+1.显示当前Git配置
+	git config --list
 
-forking
+2.设置提交仓库的用户名信息
+	git config --global user.name "Hm"
 
+3.设置提交仓库的邮箱信息
+	git config --global user.email "2042877026@qq.com"
+
+查看配置信息：
+~/.gitconfig
